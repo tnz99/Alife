@@ -1,8 +1,8 @@
 ---
-title: 'First post'
+title: 'Fourth post'
 description: 'The Story of the Buddha and the Mustard Seed'
 pubDate: 'August 14 2025'
-heroImage: '../../assets/buddha.jpg'
+heroImage: '../../assets/riseshine.jpg'
 ---
 
 One day, a woman named Kisa Gotami came to the Buddha, carrying her only child in her arms. The child had died, but she could not accept it. With tears streaming down her face, she begged the Buddha:
