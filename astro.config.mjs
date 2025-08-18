@@ -6,7 +6,7 @@ import { defineConfig } from 'astro/config';
 
 // https://astro.build/config
 export default defineConfig({
-	site: 'https://github.com/tnz99/Alife',
-	base: '/my-astro-site/', 
+	site: 'https://tnz99.github.io/blog',
+	base: '/blog/',
 	integrations: [mdx(), sitemap()],
 });
