@@ -6,3 +6,4 @@ heroImage: '../../assets/buddha.jpg'
 ---
 
 after live 
+tryyyyyy
